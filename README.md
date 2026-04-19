@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -30,7 +29,7 @@
         border-radius: 4px;
     }
     pre {
-        
+        background: #202020;
         padding: 10px;
         overflow-x: auto;
         border-radius: 6px;
