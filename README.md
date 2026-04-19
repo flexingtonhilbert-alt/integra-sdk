@@ -43,8 +43,6 @@
 
 <body>
 
-<header>Integra SDK Documentation</header>
-
 <section>
 <h2>Getting Started</h2>
 <p>Create a new instance of <code>Integra</code> to begin using the API:</p>
