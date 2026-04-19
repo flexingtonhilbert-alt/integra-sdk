@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -25,7 +24,7 @@
         color: #6ab0ff;
     }
     code {
-        background: #1e222a;
+        
         padding: 4px 6px;
         border-radius: 4px;
     }
@@ -42,6 +41,8 @@
 </head>
 
 <body>
+
+<header>Integra SDK Documentation</header>
 
 <section>
 <h2>Getting Started</h2>
