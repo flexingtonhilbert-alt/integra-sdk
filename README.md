@@ -29,11 +29,19 @@
         border-radius: 4px;
     }
     pre {
-        background: #202020;
-        padding: 10px;
-        overflow-x: auto;
-        border-radius: 6px;
-    }
+    background: #1e222a;
+    color: #e6e6e6;
+    padding: 12px;
+    border-radius: 6px;
+    overflow-x: auto;
+    font-family: Consolas, "Courier New", monospace;
+    line-height: 1.4;
+}
+
+pre code {
+    background: none; /* prevents double background */
+    padding: 0;
+}
     .method {
         margin-bottom: 15px;
     }
