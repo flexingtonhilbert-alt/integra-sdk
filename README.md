@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -24,12 +25,12 @@
         color: #6ab0ff;
     }
     code {
-        
+        background: #1e222a;
         padding: 4px 6px;
         border-radius: 4px;
     }
     pre {
-        background: #1e222a;
+        
         padding: 10px;
         overflow-x: auto;
         border-radius: 6px;
